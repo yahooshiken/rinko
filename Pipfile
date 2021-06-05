@@ -13,6 +13,8 @@ pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
 scipy = "*"
+flake8 = "*"
+black = "*"
 
 [dev-packages]
 
