@@ -15,6 +15,10 @@ matplotlib = "*"
 scipy = "*"
 flake8 = "*"
 black = "*"
+pyprind = "*"
+flask = "*"
+nltk = "*"
+wtforms = "*"
 
 [dev-packages]
 
