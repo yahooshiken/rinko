@@ -19,6 +19,7 @@ pyprind = "*"
 flask = "*"
 nltk = "*"
 wtforms = "*"
+seaborn = "*"
 
 [dev-packages]
 
